@@ -1,5 +1,5 @@
 # MongoDB-with-Express
-CRUD Operation(Create Read Update Delete)
+This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using MongoDB and Express.js. It serves as a basic guide to integrate MongoDB into an Express.js application.
 
 Origin:
 
